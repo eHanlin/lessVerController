@@ -1,5 +1,5 @@
 {
-  "name": "lessVerController",
+  "name": "less-ver-controller",
   "version": "0.0.1",
   "main":"dist/lessVerController.js",
   "devDependencies": {
