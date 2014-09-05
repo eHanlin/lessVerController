@@ -6,7 +6,7 @@ Clear a less verion cache by storage, if you want to use `.less` on production.
 ## Install
 
 ```bash
-bower install lessVerController
+bower install less-ver-controller
 ```
 
 ## Install node modules
