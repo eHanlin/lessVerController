@@ -1,7 +1,7 @@
 lessVerController
 ===================================
 
-Clear a less verion cache by storage, if you want to use `.less` on production.
+Clear a less version cache by storage, if you want to use `.less` on production.
 
 ## Install
 
