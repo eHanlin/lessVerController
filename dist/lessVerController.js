@@ -1,0 +1,3 @@
+//author: sparrow.jang
+//verion: 0.0.1
+!function(e,t){if(e){var n="_lessVerionController_",r=function(){for(var t=e.length,n=[],r=0;t>r;r++){var o=e.key(r);/\.less(:timestamp)?$/.test(o)&&n.push(o)}for(var i in n)e.removeItem(n[i])},o=function(){return e.getItem(n)?!0:!1},i=function(){return e.getItem(n)},l=function(t){e.setItem(n,t)},s=function(e){if(o()){var t=i();e!=t&&r()}l(e)};t.lessVerController={ver:s}}else t.lessVerController={ver:function(){}}}(window.localStorage,window);

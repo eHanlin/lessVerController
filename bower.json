@@ -1,0 +1,18 @@
+{
+  "name": "lessVerController",
+  "version": "0.0.1",
+  "authors": [
+    "sparrow.jang <sparrow.jang@gmail.com>"
+  ],
+  "description": "Clear a less cache by version controller",
+  "dependencies": {
+    "less.js": "~1.7.0"
+  },
+  "keywords": [
+    "less",
+    "clear",
+    "cache",
+    "version"
+  ],
+  "license": "MIT"
+}
